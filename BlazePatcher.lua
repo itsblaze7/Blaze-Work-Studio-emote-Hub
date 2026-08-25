@@ -4,7 +4,7 @@
     applies all modifications, and either saves or executes the result.
 ]]
 
-local ORIGINAL_RAW_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/Blaze-Work-Studio-Hub/main/VexroEmotesOriginal.lua"
+local ORIGINAL_RAW_URL = "https://raw.githubusercontent.com/itsblaze7/Blaze-Work-Studio-emote-Hub/refs/heads/main/VexroEmotesOriginal.lua"
 -- ⚠️ Replace YOUR_USERNAME with your actual GitHub username.
 
 -- Fetch the original script
